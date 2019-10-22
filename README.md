@@ -19,7 +19,7 @@ this aasf repository accepts the pull  request
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
 
-3. Make a Pull Request (PR) via github and it will make u assure to learn github.
+3. Make a Pull Request (PR) via github and it will make u assure to learn github......
 =======
 1. Fork the repository..
 
